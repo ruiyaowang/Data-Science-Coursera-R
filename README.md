@@ -1,1 +1,1 @@
-# Data-Science-Coursera-R
+# Coursera Data Science course using R
